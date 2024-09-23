@@ -1,6 +1,6 @@
 # Blog Markup Assignment
 Mark the given article with valid HTML. **Do not worry about presentation/style.**
-The images for this exercise are found in the images folder. Use a relative link to access them in your HTML.
+The images for this exercise are found in the images folder. Use a relative link to access them in your HTML. There are comments in the text that should give you clues as to how to code the content. Also, lines ending with a '#' are headings.  
 
 ## Steps
 1. Clone this repository to your computer through VS Code.
